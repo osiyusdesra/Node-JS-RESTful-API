@@ -29,4 +29,11 @@ Steps to create RESTful API Hiring Channel-App :
 
 2. Create Database with MySQL
 
-3. Code your CRUD
+3. Code CRUD
+
+4. Test CRUD on Postman by running
+- (GET) https://localhost:1234/welcome
+- (GET || POST || PUT || DELETE) https://localhost:1234/engineer
+- (GET || POST || PUT || DELETE) https://localhost:1234/company
+- (POST) https://localhost:1234/signup
+- (POST) https://localhost:1234/siginin
